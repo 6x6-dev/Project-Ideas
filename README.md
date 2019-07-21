@@ -16,6 +16,12 @@ Add your project ideas here, once created check them off and link to the repo.
 - [ ]     Parser of some sort (maybe a template parser)
 - [ ]     A server (rest vs graphql) include security
 ## Databases
+- [ ]  design (drawing / planning) 2 databases (from list of resource examples). write documentation explaining decisions about the table / document schema, relationships, indexing, etc
+- [ ]  install / configure the DBMS locally and create the 2 databases. perform CRUD queries against each resource (write out the queries used). repeat the process using remote databases (from a free service).
+- [ ]  (local): pick one of the databases and create a CLI for interacting with its data
+- [ ] (remote): repeat for the other database
+- [ ] (local): design and create a database (from the list of resource examples or your own) along with a CLI. write documentation explaining their designs
+- [ ] (remote): repeat with a new db
 
 ## Full Stack
 - [ ]     Web Sockets! (because socket.io is awesome?)
