@@ -28,3 +28,12 @@ Add your project ideas here, once created check them off and link to the repo.
 - [ ]     Magic email login implementation (or other passwordless login)
 - [ ]     Something involving auth
 ## Data Structures / Algorithms
+## Docker
+## Kubernetes
+## Iot
+## Mcu / embedded
+## Data science / ml
+## Graphics
+## Desktop gui
+## Netsec / pentesting
+## Native mobile
