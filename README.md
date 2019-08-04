@@ -5,7 +5,7 @@ Add your project ideas here, once created check them off and link to the repo.
 ## Frontend
 
 - [x]     [Web app that works offline](https://github.com/6x6-dev/pwa-offline)
-- [X]     [UI components](https://github.com/6x6-dev/ui-library)
+- [X]     [UI components](https://github.com/6x6-dev/ui-components)
 - [ ]     Something involving localstorage, or cache and invalidation of that cache
 - [ ]     Duplicating (part or full) the functionality of a framework that is widely used
 - [ ]    Interactive map
